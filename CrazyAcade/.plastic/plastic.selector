@@ -1,0 +1,4 @@
+repository "CrazyAcade@reone94@cloud"
+  path "/"
+    br "/main"
+    co "/main"
